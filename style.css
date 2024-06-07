@@ -1,0 +1,51 @@
+body {
+    font-family: "Roboto", sans-serif;
+}
+
+header {
+    background-image: linear-gradient(180deg, #c4b6fd, #f8c861);
+}
+
+.navbar-brand,
+.text-primary {
+    color: #0a58ca !important;
+}
+
+.nav-link {
+    font-weight: 500;
+}
+
+.nav-link:hover {
+    color: #0a58ca !important;
+}
+
+.btn-primary {
+    background-color: #a48efa!important;
+}
+
+p {
+    font-size: 18px;
+}
+
+.blue-bg {
+    background-color: #0a58ca !important;
+    color: #fff !important;
+}
+
+.icons {
+    width: 32px;
+    height: 32px;
+    color: #f8c861;
+    background-color: #f2f2f2;
+    padding: 6px;
+    margin-bottom: 16px;
+}
+
+.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+    border: none !important;
+    background-color: #f8c861 !important;
+    color: #fff !important;
+}
+.nav-tabs {
+    border: none !important;
+}
